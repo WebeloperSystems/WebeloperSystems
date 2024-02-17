@@ -7,19 +7,11 @@
 </p>
 
 <h1>Szilágyi Róbert</h1>
-
-<h2>YouTube Channel Views</h2>
-
-<!-- Add your YouTube channel views content here -->
-
-<!-- About Me section -->
 <h2>About Me</h2>
-
 <p>Feel free to checkout my portfolio website!</p>
-<p>🏢 Software Engineer (Full Stack) @Hines, in Houston TX</p>
-<p>🧰 I build with: Python Django, JavaScript, Next.js, Gatsby.js, MUI, Tailwind ...</p>
+<p>🏢 Web Developer @Entrepreneur, in Budapest</p>
+<p>🧰 I build with: HTML, CSS, JavaScript, Bootstrap, JavaScript, React, Ajax, Git, WordPress, Tailwind CSS, Radix Primitives, Radix UI Colors, Framer Motion</p>
 <p>⚡ I enjoy photography, reading, playing soccer, and lifting weights :)</p>
-
 <!-- Contact section -->
 <h2>Contact</h2>
 
