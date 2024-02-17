@@ -6,9 +6,8 @@
 <a href="https://fb.com/https://www.facebook.com/robert.szilagyi.944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/robert.szilagyi.944" height="30" width="40" /></a>
 </p>
 
-<h1>BrianRuizy</h1>
+<h1>Szilágyi Róbert</h1>
 
-<!-- YouTube Channel Views section -->
 <h2>YouTube Channel Views</h2>
 
 <!-- Add your YouTube channel views content here -->
