@@ -1,5 +1,5 @@
 
-<p>Feel free to checkout my <a target="_blank" href="https://webelopersystems.hu/"> portfolio</a> website!</p>
+<p>Feel free to check out my <a target="_blank" href="https://webelopersystems.hu/"> portfolio</a> website!</p>
 <p>🏢 Web Developer @Entrepreneur, in Budapest</p>
 <p>🧰 I build with: HTML, CSS, JavaScript, Bootstrap, React, Ajax, Git, WordPress, Tailwind CSS, Radix Primitives, Radix UI Colors, Framer Motion</p>
 <h2>Contact</h2>
