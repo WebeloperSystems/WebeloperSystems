@@ -6,4 +6,4 @@
 <a href="https://fb.com/https://www.facebook.com/robert.szilagyi.944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/robert.szilagyi.944" height="30" width="40" /></a>
 </p>
 
-<p>Languages and Tools:HTML,CSS, Bootstrap, JavaScript, React, Ajax, Git, WordPress, Tailwind CSS, Radix Primitives, Radix UI Colors, Framer Motion</p>
+<p>Languages and Tools:</p><p>HTML,CSS, Bootstrap, JavaScript, React, Ajax, Git, WordPress, Tailwind CSS, Radix Primitives, Radix UI Colors, Framer Motion</p>
